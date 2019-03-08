@@ -1,0 +1,17 @@
+h1{
+    color: red;font-family: Arial, Helvetica, sans-serif;font-size: 40px
+}
+
+h2{
+
+    color: blue;background:green;font-size: 30px
+}
+h3{
+
+    color: yellow;background: black;font-style: oblique;font-size: 60px
+}
+h4{
+    font-size: 80px;color: peru;font-style: unset;background: crimson
+}
+
+
